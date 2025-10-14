@@ -1,3 +1,4 @@
+# CERN Open Data Analysis
 
 ## Overview
 This project analyzes LHC collision data from the CMS experiment using CERN Open Data to reconstruct the invariant mass spectrum of the Z boson decaying into muon pairs. It covers:
@@ -7,6 +8,8 @@ This project analyzes LHC collision data from the CMS experiment using CERN Open
 - Gaussian fitting of the mass distribution
 - Visualization of histograms and fitted curves
 - Exporting results as PNG plots, CSV, and JSON files
+
+The project is implemented in both a Python script and Jupyter notebooks located in the `simulations/` folder for interactive exploration.
 
 ---
 
