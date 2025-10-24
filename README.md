@@ -23,8 +23,8 @@ CERN_Open_Data_Analysis/
 ├── csvs/
 ├── jsons/
 ├── simulations/
-│ ├── CERN_Open_Data_Analysis.ipynb
-│ └── CERN_Open_Data_Analysis.py
+│   ├── CERN_Open_Data_Analysis.ipynb
+│   └── CERN_Open_Data_Analysis.py
 ├── requirements.txt
 └── README.md
 ```
